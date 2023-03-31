@@ -1,0 +1,11 @@
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\Kitaplik_project\Kitaplik_project\bin\Debug\Kitaplik_project.exe.config
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\Kitaplik_project\Kitaplik_project\bin\Debug\Kitaplik_project.exe
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\Kitaplik_project\Kitaplik_project\bin\Debug\Kitaplik_project.pdb
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\Kitaplik_project\Kitaplik_project\obj\Debug\Kitaplik_project.csproj.AssemblyReference.cache
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\Kitaplik_project\Kitaplik_project\obj\Debug\Kitaplik_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\Kitaplik_project\Kitaplik_project\obj\Debug\Kitaplik_project.Form1.resources
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\Kitaplik_project\Kitaplik_project\obj\Debug\Kitaplik_project.Properties.Resources.resources
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\Kitaplik_project\Kitaplik_project\obj\Debug\Kitaplik_project.csproj.GenerateResource.cache
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\Kitaplik_project\Kitaplik_project\obj\Debug\Kitaplik_project.csproj.CoreCompileInputs.cache
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\Kitaplik_project\Kitaplik_project\obj\Debug\Kitaplik_project.exe
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\Kitaplik_project\Kitaplik_project\obj\Debug\Kitaplik_project.pdb
